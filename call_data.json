@@ -1,14 +1,14 @@
 {
   "Ads": [
       {
-      "select_main_ads": "FACEBOOK",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
-      "main_ads_banner": "1316197549688945_1330541934921173",
-      "main_ads_intertitial":"1316197549688945_1443036113671754",
+      "main_ads_banner": "ca-app-pub-3940256099942544/9214589741",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "backup_ads_banner":"1316197549688945_1330541934921173",
       "backup_ads_intertitial":"1316197549688945_1443036113671754",
-      "open_app_ads":"",
-      "interval_intertitial": 5,
+      "open_app_ads":"ca-app-pub-3940256099942544/9257395921",
+      "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
