@@ -1,0 +1,68 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"FACEBOOK",
+      "main_ads_banner": "1316197549688945_1330541934921173",
+      "main_ads_intertitial":"1316197549688945_1443036113671754",
+      "backup_ads_banner":"1316197549688945_1330541934921173",
+      "backup_ads_intertitial":"1316197549688945_1443036113671754",
+      "open_app_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+  "Item": [
+    {
+      "id": 1,
+      "name": "Cappuccino assassino",
+      "image_url": "https://drive.google.com/uc?export=download&id=1JFmSxHqARNpBozZggyLXBUA9JbTg2TAm",
+      "video_url": "https://drive.google.com/uc?export=download&id=1OO2WEruzkmh4FDepssZaibRMS94Zy05n",
+      "voice_url": "https://drive.google.com/uc?export=download&id=1OO2WEruzkmh4FDepssZaibRMS94Zy05n"
+    },
+    {
+      "id": 2,
+      "name": "Ballerina Cappuccina",
+      "image_url": "https://drive.google.com/uc?export=download&id=1Yt8u88v2afgQI4n4bzUmEIlAQ2DEHCRb",
+      "video_url": "https://drive.google.com/uc?export=download&id=1h10UiBzxGRpH87XiEwQJ_fxZ9bcYG1Pt",
+      "voice_url": "https://drive.google.com/uc?export=download&id=1h10UiBzxGRpH87XiEwQJ_fxZ9bcYG1Pt"
+    },
+    {
+      "id": 3,
+      "name": "Tung Tung Sahur",
+      "image_url": "https://drive.google.com/uc?export=download&id=17cvC2tG89T6Q18y-NEdPsbLGclZGCUuB",
+      "video_url": "https://drive.google.com/uc?export=download&id=1Fdp8VYNQk_2hoXVjb18m2QDXAKs7s1WC",
+      "voice_url": "https://drive.google.com/uc?export=download&id=1Fdp8VYNQk_2hoXVjb18m2QDXAKs7s1WC"
+    },
+    {
+      "id": 4,
+      "name": "Udindidun",
+      "image_url": "https://drive.google.com/uc?export=download&id=1wV-J6-cjai3N2Ke43YQGSAedClhWNOdK",
+      "video_url": "https://drive.google.com/uc?export=download&id=1Sk7sDeue5EC_Y6TEWJXj_jvCDQMh1q9q",
+      "voice_url": "https://drive.google.com/uc?export=download&id=1Sk7sDeue5EC_Y6TEWJXj_jvCDQMh1q9q"
+    },
+    {
+      "id": 5,
+      "name": "Tralalero Tralala",
+      "image_url": "https://drive.google.com/uc?export=download&id=1ZiKzwbvpYGyPKDyS5wfkuDervgqP7UON",
+      "video_url": "https://drive.google.com/uc?export=download&id=15pVmGKk8_hFMnmbP1ply1TzifJHmBZFX",
+      "voice_url": "https://drive.google.com/uc?export=download&id=15pVmGKk8_hFMnmbP1ply1TzifJHmBZFX"
+    },
+    {
+      "id": 6,
+      "name": "Brr Brr Patapim",
+      "image_url": "https://drive.google.com/uc?export=download&id=1kJOwxT1kQpJiVjXw2br4vragJW_im7Zv",
+      "video_url": "https://drive.google.com/uc?export=download&id=1_V74DwaYzUsK7-LR-xuqjSVfaUPYCoE0",
+      "voice_url": "https://drive.google.com/uc?export=download&id=1_V74DwaYzUsK7-LR-xuqjSVfaUPYCoE0"
+    }
+  ]
+
+}
