@@ -100,10 +100,17 @@
     },
     {
       "id": 12,
-      "name": "Tia",
+      "name": "Lili",
       "image_url": "https://raw.githubusercontent.com/Toko11921/Toko11921.github.io/refs/heads/main/12.jpg",
       "video_url": "https://toko11921.github.io/12.mp4",
       "voice_url": "https://toko11921.github.io/12.mp3"
+    },
+    {
+      "id": 14,
+      "name": "Navya",
+      "image_url": "https://raw.githubusercontent.com/Toko11921/Toko11921.github.io/refs/heads/main/13.jpg",
+      "video_url": "https://toko11921.github.io/13.mp4",
+      "voice_url": "https://toko11921.github.io/13.mp3"
     }
   ]
 
