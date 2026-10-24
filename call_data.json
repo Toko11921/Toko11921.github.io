@@ -23,7 +23,7 @@
   "Item": [
     {
       "id": 1,
-      "name": "Cute",
+      "name": "Amelia",
       "image_url": "https://raw.githubusercontent.com/Toko11921/Toko11921.github.io/refs/heads/main/1.jpg",
       "video_url": "https://toko11921.github.io/1.mp4",
       "voice_url": "https://toko11921.github.io/1.mp3"
@@ -37,10 +37,10 @@
     },
     {
       "id": 3,
-      "name": "Tung Tung Sahur",
-      "image_url": "https://drive.google.com/uc?export=download&id=17cvC2tG89T6Q18y-NEdPsbLGclZGCUuB",
-      "video_url": "https://drive.google.com/uc?export=download&id=1Fdp8VYNQk_2hoXVjb18m2QDXAKs7s1WC",
-      "voice_url": "https://drive.google.com/uc?export=download&id=1Fdp8VYNQk_2hoXVjb18m2QDXAKs7s1WC"
+      "name": "Seo-yeon",
+      "image_url": "https://raw.githubusercontent.com/Toko11921/Toko11921.github.io/refs/heads/main/3.jpg",
+      "video_url": "https://toko11921.github.io/3.mp4",
+      "voice_url": "https://toko11921.github.io/3.mp3"
     },
     {
       "id": 4,
