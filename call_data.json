@@ -5,8 +5,10 @@
       "select_backup_ads":"FACEBOOK",
       "main_ads_banner": "ca-app-pub-3940256099942544/9214589741",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_native": "ca-app-pub-3940256099942544/2247696110",
       "backup_ads_banner":"1316197549688945_1330541934921173",
       "backup_ads_intertitial":"1316197549688945_1443036113671754",
+      "backup_ads_native":"ca-app-pub-3940256099942544/2247696110",
       "open_app_ads":"ca-app-pub-3940256099942544/9257395921",
       "interval_intertitial": 1,
       "initialize_sdk":"",
@@ -121,7 +123,7 @@
     },
     {
       "id": 15,
-      "name": "Kavya",
+      "name": "Navia",
       "image_url": "https://raw.githubusercontent.com/Toko11921/Toko11921.github.io/refs/heads/main/15.jpg",
       "video_url": "https://toko11921.github.io/15.mp4",
       "voice_url": "https://toko11921.github.io/15.mp3"
